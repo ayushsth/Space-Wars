@@ -43,3 +43,4 @@ cd Space-Wars
 
 ````bash
 python main.py
+```
