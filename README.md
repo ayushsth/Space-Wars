@@ -26,12 +26,14 @@ Space Wars is a 2D multiplayer space shooter game developed using Python and its
 - Python
 - Pygame Library
 
+To install Pygame, run:
 ```bash
 pip install pygame
 ```
 
 ## Clone Repository
 
+To clone this repository, run:
 ```bash
 git clone https://github.com/ayushsth/Space-Wars.git
 
@@ -41,5 +43,7 @@ cd Space-Wars
 
 ## Running the Game
 
+After cloning the repository and installing the dependencies, runt the game with:
 ````bash
 python main.py
+
