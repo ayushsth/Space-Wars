@@ -13,11 +13,11 @@ Space Wars is a 2D multiplayer space shooter game developed using Python and its
 ## How to Play
 ### Conrols:
 #### Red Spaceship(Player 1):
--**Move**: **W**(UP),**S**(DOWN),**A**(LEFT),**D**(RIGHT) 
+-**Move**: **W**(UP),**S**(DOWN),**A**(LEFT),**D**(RIGHT) </br>
 -**Shoot**: **SPACE**
 
 #### Yellow Spaceship(Player 2):
--**Move**: Arrow keys(↑, ↓, ←, →) 
+-**Move**: Arrow keys(↑, ↓, ←, →) </br>
 -**Shoot**: **RCTRL**(Right CTRL)
 
 
@@ -34,9 +34,7 @@ pip install pygame
 
 ```bash
 git clone https://github.com/ayushsth/Space-Wars.git
-```
 
-````bash
 cd Space-Wars
 ```
 
@@ -46,3 +44,4 @@ cd Space-Wars
 ````bash
 python main.py
 ```
+
